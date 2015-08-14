@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
+xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>网易云音乐</ShortName>
+  <Description>听见好时光</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image height="16" width="16" type="image/x-icon">http://s1.music.126.net/music.ico</Image>
+  <Url type="text/html" method="GET" template="http://music.163.com/#/search/m/?s={searchTerms}">
+  </Url>
+  <moz:SearchForm>http://music.163.com/</moz:SearchForm>
+</OpenSearchDescription>
