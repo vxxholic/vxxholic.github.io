@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
-xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+                       xmlns:moz="http://www.mozilla.org/2006/browser/search/">
   <ShortName>网易云音乐</ShortName>
   <Description>听见好时光</Description>
   <InputEncoding>UTF-8</InputEncoding>
